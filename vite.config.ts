@@ -15,4 +15,5 @@ export default defineConfig({
       '@': '/src',
     },
   },
+  base: '/my-react-app-cards/',
 });
